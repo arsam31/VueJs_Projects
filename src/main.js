@@ -17,3 +17,13 @@ var ab = {
     }
 };
 Vue.createApp(ab).mount(".app");
+
+
+
+v-if
+v-else-if
+v-else
+v-text
+v-once 
+v-bind can also be used as : (v-bind:key="text")
+v-on
